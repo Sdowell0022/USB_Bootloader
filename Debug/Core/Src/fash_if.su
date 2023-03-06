@@ -1,0 +1,5 @@
+fash_if.c:53:6:FLASH_If_FlashUnlock	8	static
+fash_if.c:63:12:FLASH_If_ReadOutProtectionStatus	16	static
+fash_if.c:83:10:FLASH_If_EraseSectors	32	static
+fash_if.c:117:14:FLASH_If_ProgramWord	32	static
+fash_if.c:133:17:FLASH_If_GetSectorNumber	24	static

@@ -1,0 +1,14 @@
+main.c:87:5:main	24	static
+main.c:196:13:flash_status_led	24	static
+main.c:212:9:usb_test_write	16	static
+main.c:230:9:usb_test_read	4	static
+main.c:235:13:bootloader_jump_to_user_app	24	static
+main.c:260:6:MX_CRC_Init	8	static
+main.c:271:6:HAL_CRC_MspInit	24	static
+main.c:287:6:HAL_CRC_MspDeInit	16	static
+main.c:303:17:calcCrc32	40	static
+main.c:323:9:get_flash_rdp_level	16	static
+main.c:341:9:execute_flash_erase	48	static
+main.c:388:6:SystemClock_Config	88	static
+main.c:432:13:MX_GPIO_Init	48	static
+main.c:480:6:Error_Handler	4	static

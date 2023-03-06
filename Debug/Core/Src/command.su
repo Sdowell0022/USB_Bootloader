@@ -1,0 +1,5 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static
+command.c:60:6:COMMAND_UPLOAD	32	static
+command.c:129:6:COMMAND_DOWNLOAD	16	static
+command.c:167:6:COMMAND_JUMP	8	static
+command.c:178:6:COMMAND_ProgramFlashMemory	24	static
